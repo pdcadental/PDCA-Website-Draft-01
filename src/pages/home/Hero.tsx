@@ -8,7 +8,7 @@ import './Hero.css'
 const HIGHLIGHTS = [
   '21+ years serving Singapore dental clinics',
   'In-house shade-taking studio',
-  'Singapore & Jakarta production labs',
+  'Modern Singapore production lab',
 ]
 
 export function Hero() {
@@ -20,7 +20,7 @@ export function Hero() {
         <p className="hero-sub">
           Patrick Dental Ceramic Arts is a full-service dental laboratory
           producing crowns, bridges, veneers and implants for clinics across
-          Singapore and Jakarta — built to fit first time, every time.
+          Singapore — built to fit first time, every time.
         </p>
         <div className="hero-actions">
           <Button to="/contact">Request a Quote</Button>

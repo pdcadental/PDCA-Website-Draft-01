@@ -6,7 +6,7 @@ const POINTS = [
   'Dedicated shade-taking studio for accurate, repeatable color matching',
   'Three times the production space of our previous facility',
   'On-site training and rest areas for our technician team',
-  'A second lab in Jakarta to support regional case volume',
+  'Built with headroom to support continued case volume growth',
 ]
 
 export function FacilityHighlight() {

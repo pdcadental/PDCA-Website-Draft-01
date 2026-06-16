@@ -3,7 +3,7 @@ import './StatsBar.css'
 
 const STATS = [
   { value: '21+', label: 'Years in dental ceramics' },
-  { value: '2', label: 'Production labs — Singapore & Jakarta' },
+  { value: '1', label: 'Production lab in Singapore' },
   { value: '11–50', label: 'Skilled technicians on staff' },
   { value: '4', label: 'Core restoration types' },
 ]
